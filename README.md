@@ -1,4 +1,5 @@
-## Hi there 👋
+# Привет, меня зовут Вика :) 👋
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Студентка+2+курса+РАНХиГС;Изучаю+Python)
 
 <!--
 **nikitaevavika/nikitaevavika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
